@@ -28,7 +28,7 @@ Google Fonts
 
 Add your live project link here:
 
-https://your-live-demo-link.com
+https://kevin-2810.github.io/Manav-Rachna-Dual-Degree-/
 
 📱 Responsive Design
 
