@@ -11,6 +11,10 @@ Knowledge Partner Section
 Footer with Contact Information
 Google Fonts & Font Awesome Icons
 Smooth UI Components and Layout
+
+
+
+
 🛠️ Technologies Used
 HTML5
 CSS3
@@ -19,11 +23,13 @@ Swiper.js
 Font Awesome
 Google Fonts
 
+
 🌐 Live Demo
 
 Add your live project link here:
 
 https://your-live-demo-link.com
+
 📱 Responsive Design
 
 This project is fully responsive and optimized for:
